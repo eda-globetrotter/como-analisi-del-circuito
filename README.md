@@ -1,2 +1,2 @@
 # como-analisi-del-circuito
-Repository for notes and SPICE netlists/decks for electrical circuit analysis
+Repository for notes and SPICE netlists/decks regarding electrical circuit analysis
